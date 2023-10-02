@@ -1,0 +1,519 @@
+
+
+.todo{
+
+    background-image:url(https://www.toptal.com/designers/subtlepatterns/uploads/memphis-mini-dark.png);
+    margin-top: -130px;
+    margin-left: -10px;
+    margin-right: -10px;
+    
+}
+
+
+
+.titulo0{
+    text-decoration: underline;
+    font-family: 'Bacasime Antique';
+    color: #FFFFFF;
+    font-size: 150px;
+    text-align: center;
+    text-shadow:2px 1px 2px#979494ad;
+    margin-top: 130px;
+}
+
+
+.titulo1{
+
+    text-decoration: underline;
+    font-family: 'Bacasime Antique', serif;
+    color:#FFFFFF;
+    text-align: center;
+    text-shadow: 90px;
+    font-size:35px;
+    text-shadow:3px 3px 10px#ffffffad;
+    
+    
+}
+
+.info-box{
+    background-color: #fdfdfd94;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+.texto1{
+    font-family: 'Montserrat';
+    font-size:22px;
+}
+
+.info-box-imagen{
+
+    background-color: #fdfdfd94;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+    border-radius: 5px;
+    display:flex;
+}
+
+            .titulo-peli{
+                
+                text-decoration: underline;
+                font-family: 'Secular One';
+                color:#000000;
+                font-size:26px;
+                
+                text-shadow:5px 5px 10px#00000093;
+                text-align: center;
+            }
+
+            .texto-peli{
+                font-family: 'Montserrat';
+                font-size:18px;
+                width:500px;
+                padding-top: 30px;
+                padding-bottom: 30px;
+            }
+
+            
+            .caja-chihiro{
+                background-color: #e27998ad;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color:#7a1e3db2;
+                border-width:5px;   
+                
+            }
+
+            
+            .caja-totoro{
+                background-color: #66968ba8;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color:#1e3327b2;
+                border-width:5px;   
+                
+            }
+                        
+            .caja-mononoke{
+                background-color: #7c86e291;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color:#707bdab0;
+                border-width:5px;   
+                
+            }
+
+            .caja-ponyo{
+                background-color: #eb8882a2;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color:#f06159dc;
+                border-width:5px;   
+                
+            }
+
+            .caja-kaguya{
+                background-color: #f8abdca1;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color:#fa76cad3;
+                border-width:5px;   
+                
+            }
+
+            .caja-tumba{
+                background-color: #8d876ab4;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color:#333025bb;
+                border-width:5px;   
+                
+            }
+
+
+            .caja-porco{
+                background-color: #668fdb93;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color:#243657b9;
+                border-width:5px;   
+                
+            }
+
+            .caja-kiki{
+                background-color: #79dba29d;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color:#0c3f2db4;
+                border-width:5px;   
+                
+            }
+
+            
+            .caja-castillo{
+                background-color: #cddfdb88;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color:#3d3f3fb2;
+                border-width:5px;   
+                
+            }
+
+            .caja-howl{
+                background-color: #90fd8675;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color:#1c4121c0;
+                border-width:5px;   
+                
+            }
+
+            .caja-valle{
+                background-color: #2b5c81a1;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color:#132a3bc7;
+                border-width:5px;   
+                
+            }
+
+            .caja-marnie{
+                background-color: #40c5abab;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color:#10302acb;
+                border-width:5px;   
+                
+            }
+
+            .caja-recuerdos{
+                background-color: #f8d99f9f;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color:#5a4826d3;
+                border-width:5px;   
+                
+            }
+
+            .caja-amapolas{
+                background-color: #8cc3d493;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color:#1a2635d3;
+                border-width:5px;   
+                
+            }
+
+            .caja-susurros{
+                background-color: #e8f07593;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color:#9c9a29c0;
+                border-width:5px;   
+                
+            }
+
+            .caja-pompoko{
+                background-color: #4a9ae9a1;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color:#0f3255b2;
+                border-width:5px;   
+                
+            }
+
+            .caja-haru{
+                background-color: #ddcaa7a2;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color:#4e422bb4;
+                border-width:5px;   
+                
+            }
+
+            .caja-arrietty{
+                background-color: #a2e972a8;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color:#3e5e21;
+                border-width:5px;   
+                
+            }
+
+            .caja-viento{
+                background-color: #3192d885;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color:#061a29c4;
+                border-width:5px;   
+                
+            }
+
+            .caja-yamada{
+                background-color: #cfc4b583;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color: #474039c9;
+                border-width:5px;   
+                
+            }
+
+            
+            .caja-mar{
+                background-color: #80a2b391;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color: #213946a9;
+                border-width:5px;   
+                
+            }
+
+            
+            .caja-terramar{
+                background-color: #876a8f9f;
+                margin: 70px;
+                padding: 30px;
+                border-radius:5px;
+                height: 650px;
+                width: 500px;
+                border-style:solid;
+                border-color: #3f2946c2;
+                border-width:5px;   
+                
+            }
+
+            .texto2{
+                font-family: 'Montserrat';
+                font-size:20px;
+                display:flex;
+                flex-flow: column wrap;
+            }
+            .info-box1{
+                background-color: #fdfdfd94;
+                margin-left: 60px;
+                margin-right: 60px;
+                margin-top: 0px;
+                margin-bottom: 40px;
+                padding: 10px;
+                border-radius: 5px;
+                display: inline-block;
+                display: flex;
+                gap: 40px;
+                height: 300px;
+                width: 900px;
+                
+            }
+
+.container-pelis{
+    display:grid;
+    grid-template-columns: 45% 45%;
+    grid-template-rows: 9% 9% 9% 9% 9% 9% 9% 9% 9% 9% 9% ;
+    
+}
+
+
+.creadores-anuncio{
+    display:grid;
+    grid-template-columns: 75% 20%;
+    grid-template-rows: 100%;
+    margin-top: 50px;
+
+}
+.creadores-anuncio2{
+    display:grid;
+    grid-template-columns: 20% 75%;
+    grid-template-rows: 100%;
+    margin-top: 50px;
+    margin-left: 30px;
+
+}
+
+.nav{
+    display:inline;
+    color:#000000;
+    font-size:30px;
+    margin: 40px;
+    font-family: 'Barlow';
+    text-decoration: underline;
+
+    
+
+}
+.nav-box{
+    position: sticky;
+    top: 20px;
+    left: 15px;
+    background-color:#dadadadc;
+    height: 50px;
+    width: 1200px;
+    padding-left:100px;
+    padding-top:10px;
+    border-style: solid;
+    border-color:#423b4e;
+    border-width:5px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
